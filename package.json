@@ -1,0 +1,21 @@
+{
+  "name": "cwa-immutable",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "invariant": "^2.2.4"
+  },
+  "devDependencies": {
+    "expect": "^24.5.0",
+    "jest": "^24.5.0"
+  },
+  "files": [
+    "lib",
+    "package.json"
+  ],
+  "author": "kang_xjtu@163.com",
+  "license": "MIT"
+}
